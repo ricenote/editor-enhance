@@ -8,10 +8,10 @@
     "plugin",
     "editor-enhance"
   ],
-  "homepage": "https://github.com/ricenote/plugin-editor-enhance",
+  "homepage": "https://github.com/ricenote/editor-enhance",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ricenote/plugin-editor-enhance.git"
+    "url": "git+https://github.com/ricenote/editor-enhance.git"
   },
   "license": "MIT",
   "author": "RiceNote",
