@@ -35,21 +35,16 @@
     "prepublishOnly": "pnpm build"
   },
   "peerDependencies": {
-    "@ricenote/plugin-sdk": "^0.6.1",
-    "@ricenote/shared": "^0.6.1"
+    "@ricenote/plugin-sdk": "^0.7.0"
   },
   "peerDependenciesMeta": {
     "@ricenote/plugin-sdk": {
-      "optional": true
-    },
-    "@ricenote/shared": {
       "optional": true
     }
   },
   "devDependencies": {
     "typescript": "^5.7.2",
     "@types/node": "^22.10.2",
-    "@ricenote/plugin-sdk": "^0.6.1",
-    "@ricenote/shared": "^0.6.1"
+    "@ricenote/plugin-sdk": "^0.7.0"
   }
 }
